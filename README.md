@@ -1,6 +1,7 @@
 Wordpress Password Stregth Meter
 ===========
 
+
 === Plugin Name ===
 Contributors: Debabrata Karfa [dkarfa]
 Donate link: http://www.dkarfawork.com/wordpress/
@@ -10,6 +11,7 @@ Tested up to: 3.7
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 
 Add Password Stregth Meter on Sign Up Form or Password Modification Page
 
